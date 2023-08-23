@@ -6,6 +6,8 @@ function App() {
     <>
       <div>
         <h1>Hello World</h1>
+
+        <p className='paragrafo'>Alterando a cor do paragrafo</p>
       </div>
     </>
   )
