@@ -1,7 +1,6 @@
 export default function TemplateExpressions() {
     const name = "Kauan"
     const data = {
-        age: 31,
         job: "Programmer",
     };
 

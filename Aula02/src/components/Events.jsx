@@ -26,6 +26,7 @@ export default function Events() {
             </div>
             <div>
                 {renderSomething(true)}
+            
                 {renderSomething(false)}
             </div>
         </div>
